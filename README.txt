@@ -16,6 +16,7 @@ http://www.multichain.com/getting-started/
 Developer guide and tutorials:
 http://www.multichain.com/developers/
 
+//hi bro
 API commands:
 http://www.multichain.com/developers/json-rpc-api/
 
